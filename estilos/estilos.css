@@ -30,3 +30,11 @@ body {
 .display-3.text-center.text-white {
     font-family: cursive;
   }
+  footer {
+    background-color: #856196;
+    border-radius: 5px;
+  }
+  p {
+    display: flex;
+    justify-content: center;
+  }
